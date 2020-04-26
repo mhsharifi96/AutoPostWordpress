@@ -6,8 +6,8 @@ sometime you need create post automatically on wordpress CMS
 first you should install JWT Authentication for WP REST API plugin
 you can use this links for install plugin on wordpress
 
-wordpress link[https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/]
-github link[https://github.com/Tmeister/wp-api-jwt-auth]
+[wordpress link](https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/)
+(github link)(https://github.com/Tmeister/wp-api-jwt-auth)
 
 
 ## Second
@@ -19,6 +19,7 @@ that's very easy
 ### requirment
 
 python3
+
 http
 
 
