@@ -9,7 +9,7 @@ def ApiCreatePost(data):
     payload = "{\n\t\"title\":\"دانلود باشه جدیدترین روضه و نوحه در ایران و جهان \",\n\t\"content\":\"دانلود جدیدترین و خفن ترینها از سایت روضه نیوز دات ای ار بیایید پیش ما سایتمون داره خفن میشه  همه رو میخواییم زخمی کنیم\",\n\t\"publish\":\"draft\"\n}"
 
     headers = {
-        'authorization': "Bearer <TOKEN>", #test.rovzenews.ir
+        'authorization': "Bearer <TOKEN>", #test.rovzenews.ir "For TEST"
         #  'authorization':"Bearer <TOKEN>",  #rovzenews.ir
         'content-type': "application/json",
         'cache-control': "no-cache",
